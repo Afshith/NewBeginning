@@ -2,7 +2,7 @@ package HundredDaysOfCode;
 
 import java.util.Arrays;
 
-public class DaySixReverseArray {
+public class Day_6_ReverseArray {
     public static void main(String[] args) {
         int[] nums = {1,2,3,4,5,6,7};
         int i = 0,j = nums.length-1;

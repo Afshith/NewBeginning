@@ -1,6 +1,6 @@
 package HundredDaysOfCode;
 
-public class DayElevenSecondLargest {
+public class Day_11_SecondLargest {
     public static void main(String[] args) {
         int[] nums = {1,25,6,78,90};
         int largest = nums[0];

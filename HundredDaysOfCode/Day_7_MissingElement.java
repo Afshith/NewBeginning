@@ -1,6 +1,6 @@
 package HundredDaysOfCode;
 
-public class DaySevenMissingElement {
+public class Day_7_MissingElement {
     public static void main(String args[]) {
         int N = 5;
         int a[] = {1, 2, 4, 5};

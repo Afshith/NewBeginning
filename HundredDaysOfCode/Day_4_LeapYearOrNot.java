@@ -1,8 +1,6 @@
 package HundredDaysOfCode;
 
-import java.time.Year;
-
-public class DayFourLeapYearOrNot {
+public class Day_4_LeapYearOrNot {
     public static void main(String[] args) {
         int year = 2019;
         if (isLeap(year)) {
