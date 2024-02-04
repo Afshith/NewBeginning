@@ -1,6 +1,6 @@
 package HundredDaysOfCode;
 
-public class Day_27_RemoveDuplicates {
+public class Day_27_RemoveElement {
     public static void main(String[] args) {
         int[] nums = {1,2,2,2,3,4,5};
         int count = 0;
