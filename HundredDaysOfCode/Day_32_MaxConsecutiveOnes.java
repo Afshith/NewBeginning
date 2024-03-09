@@ -2,6 +2,7 @@ package HundredDaysOfCode;
 
 public class Day_32_MaxConsecutiveOnes {
     public static void main(String args[]) {
+        //
         int nums[] = { 1, 1, 0, 1, 1, 1 };
         int ans = findResult(nums);
         System.out.println("The maximum  consecutive 1's are " + ans);
